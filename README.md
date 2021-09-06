@@ -1,4 +1,4 @@
-# Short Descryption
+# Short Description
 Hywin will be a Chat Application available for PC, Android
 and maybe for Apple.
 
