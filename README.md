@@ -11,5 +11,4 @@ An Developer API for custom programs like auto login, Custom Bots
 or sending messages will be provided. Program languages unkown.
 
 # Status
-Please don't download the Version yet, it is still being developed,
-this text will update when the first beta version is out.
+The link of the status is visible at https://trello.com/b/R2hxfv9L/windows.
